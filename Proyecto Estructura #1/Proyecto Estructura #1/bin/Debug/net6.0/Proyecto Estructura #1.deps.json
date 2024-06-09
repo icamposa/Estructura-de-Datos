@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Proyecto Estructura #1/1.0.0": {
+        "runtime": {
+          "Proyecto Estructura #1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Proyecto Estructura #1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
