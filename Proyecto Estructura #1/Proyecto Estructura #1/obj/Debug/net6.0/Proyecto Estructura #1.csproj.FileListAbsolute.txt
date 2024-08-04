@@ -1,0 +1,15 @@
+C:\Users\ivanc\OneDrive\Escritorio\Estructura de Datos\Proyecto Estructura #1\Proyecto Estructura #1\bin\Debug\net6.0\Proyecto Estructura #1.exe
+C:\Users\ivanc\OneDrive\Escritorio\Estructura de Datos\Proyecto Estructura #1\Proyecto Estructura #1\bin\Debug\net6.0\Proyecto Estructura #1.deps.json
+C:\Users\ivanc\OneDrive\Escritorio\Estructura de Datos\Proyecto Estructura #1\Proyecto Estructura #1\bin\Debug\net6.0\Proyecto Estructura #1.runtimeconfig.json
+C:\Users\ivanc\OneDrive\Escritorio\Estructura de Datos\Proyecto Estructura #1\Proyecto Estructura #1\bin\Debug\net6.0\Proyecto Estructura #1.dll
+C:\Users\ivanc\OneDrive\Escritorio\Estructura de Datos\Proyecto Estructura #1\Proyecto Estructura #1\bin\Debug\net6.0\Proyecto Estructura #1.pdb
+C:\Users\ivanc\OneDrive\Escritorio\Estructura de Datos\Proyecto Estructura #1\Proyecto Estructura #1\obj\Debug\net6.0\Proyecto Estructura #1.csproj.AssemblyReference.cache
+C:\Users\ivanc\OneDrive\Escritorio\Estructura de Datos\Proyecto Estructura #1\Proyecto Estructura #1\obj\Debug\net6.0\Proyecto Estructura #1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivanc\OneDrive\Escritorio\Estructura de Datos\Proyecto Estructura #1\Proyecto Estructura #1\obj\Debug\net6.0\Proyecto Estructura #1.AssemblyInfoInputs.cache
+C:\Users\ivanc\OneDrive\Escritorio\Estructura de Datos\Proyecto Estructura #1\Proyecto Estructura #1\obj\Debug\net6.0\Proyecto Estructura #1.AssemblyInfo.cs
+C:\Users\ivanc\OneDrive\Escritorio\Estructura de Datos\Proyecto Estructura #1\Proyecto Estructura #1\obj\Debug\net6.0\Proyecto Estructura #1.csproj.CoreCompileInputs.cache
+C:\Users\ivanc\OneDrive\Escritorio\Estructura de Datos\Proyecto Estructura #1\Proyecto Estructura #1\obj\Debug\net6.0\Proyecto Estructura #1.dll
+C:\Users\ivanc\OneDrive\Escritorio\Estructura de Datos\Proyecto Estructura #1\Proyecto Estructura #1\obj\Debug\net6.0\refint\Proyecto Estructura #1.dll
+C:\Users\ivanc\OneDrive\Escritorio\Estructura de Datos\Proyecto Estructura #1\Proyecto Estructura #1\obj\Debug\net6.0\Proyecto Estructura #1.pdb
+C:\Users\ivanc\OneDrive\Escritorio\Estructura de Datos\Proyecto Estructura #1\Proyecto Estructura #1\obj\Debug\net6.0\Proyecto Estructura #1.genruntimeconfig.cache
+C:\Users\ivanc\OneDrive\Escritorio\Estructura de Datos\Proyecto Estructura #1\Proyecto Estructura #1\obj\Debug\net6.0\ref\Proyecto Estructura #1.dll
