@@ -1,0 +1,31 @@
+C:\Users\ivanc\OneDrive\Escritorio\Estructura de Datos\Proyecto estructura #2\Proyecto Hospital\obj\Debug\Proyecto Hospital.csproj.AssemblyReference.cache
+C:\Users\ivanc\OneDrive\Escritorio\Estructura de Datos\Proyecto estructura #2\Proyecto Hospital\obj\Debug\Proyecto Hospital.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanc\OneDrive\Escritorio\Estructura de Datos\Proyecto estructura #2\Proyecto Hospital\obj\Debug\Proyecto_Hospital.IHospital.resources
+C:\Users\ivanc\OneDrive\Escritorio\Estructura de Datos\Proyecto estructura #2\Proyecto Hospital\obj\Debug\Proyecto_Hospital.Properties.Resources.resources
+C:\Users\ivanc\OneDrive\Escritorio\Estructura de Datos\Proyecto estructura #2\Proyecto Hospital\obj\Debug\Proyecto Hospital.csproj.GenerateResource.cache
+C:\Users\ivanc\OneDrive\Escritorio\Estructura de Datos\Proyecto estructura #2\Proyecto Hospital\obj\Debug\Proyecto Hospital.csproj.CoreCompileInputs.cache
+C:\Users\ivanc\OneDrive\Escritorio\Estructura de Datos\Proyecto estructura #2\Proyecto Hospital\bin\Debug\Proyecto Hospital.exe.config
+C:\Users\ivanc\OneDrive\Escritorio\Estructura de Datos\Proyecto estructura #2\Proyecto Hospital\bin\Debug\Proyecto Hospital.exe
+C:\Users\ivanc\OneDrive\Escritorio\Estructura de Datos\Proyecto estructura #2\Proyecto Hospital\bin\Debug\Proyecto Hospital.pdb
+C:\Users\ivanc\OneDrive\Escritorio\Estructura de Datos\Proyecto estructura #2\Proyecto Hospital\obj\Debug\Proyecto Hospital.exe
+C:\Users\ivanc\OneDrive\Escritorio\Estructura de Datos\Proyecto estructura #2\Proyecto Hospital\obj\Debug\Proyecto Hospital.pdb
+C:\Users\byaku\Desktop\proyecto 2\Proyecto Hospital\bin\Debug\Proyecto Hospital.exe.config
+C:\Users\byaku\Desktop\proyecto 2\Proyecto Hospital\bin\Debug\Proyecto Hospital.exe
+C:\Users\byaku\Desktop\proyecto 2\Proyecto Hospital\bin\Debug\Proyecto Hospital.pdb
+C:\Users\byaku\Desktop\proyecto 2\Proyecto Hospital\obj\Debug\Proyecto Hospital.csproj.AssemblyReference.cache
+C:\Users\byaku\Desktop\proyecto 2\Proyecto Hospital\obj\Debug\Proyecto_Hospital.IHospital.resources
+C:\Users\byaku\Desktop\proyecto 2\Proyecto Hospital\obj\Debug\Proyecto_Hospital.Properties.Resources.resources
+C:\Users\byaku\Desktop\proyecto 2\Proyecto Hospital\obj\Debug\Proyecto Hospital.csproj.GenerateResource.cache
+C:\Users\byaku\Desktop\proyecto 2\Proyecto Hospital\obj\Debug\Proyecto Hospital.csproj.CoreCompileInputs.cache
+C:\Users\byaku\Desktop\proyecto 2\Proyecto Hospital\obj\Debug\Proyecto Hospital.exe
+C:\Users\byaku\Desktop\proyecto 2\Proyecto Hospital\obj\Debug\Proyecto Hospital.pdb
+C:\Users\jimen\Downloads\proyecto 2\proyecto 2\Proyecto Hospital\bin\Debug\Proyecto Hospital.exe.config
+C:\Users\jimen\Downloads\proyecto 2\proyecto 2\Proyecto Hospital\bin\Debug\Proyecto Hospital.exe
+C:\Users\jimen\Downloads\proyecto 2\proyecto 2\Proyecto Hospital\bin\Debug\Proyecto Hospital.pdb
+C:\Users\jimen\Downloads\proyecto 2\proyecto 2\Proyecto Hospital\obj\Debug\Proyecto Hospital.csproj.AssemblyReference.cache
+C:\Users\jimen\Downloads\proyecto 2\proyecto 2\Proyecto Hospital\obj\Debug\Proyecto_Hospital.IHospital.resources
+C:\Users\jimen\Downloads\proyecto 2\proyecto 2\Proyecto Hospital\obj\Debug\Proyecto_Hospital.Properties.Resources.resources
+C:\Users\jimen\Downloads\proyecto 2\proyecto 2\Proyecto Hospital\obj\Debug\Proyecto Hospital.csproj.GenerateResource.cache
+C:\Users\jimen\Downloads\proyecto 2\proyecto 2\Proyecto Hospital\obj\Debug\Proyecto Hospital.csproj.CoreCompileInputs.cache
+C:\Users\jimen\Downloads\proyecto 2\proyecto 2\Proyecto Hospital\obj\Debug\Proyecto Hospital.exe
+C:\Users\jimen\Downloads\proyecto 2\proyecto 2\Proyecto Hospital\obj\Debug\Proyecto Hospital.pdb
